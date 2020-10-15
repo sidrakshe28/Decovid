@@ -12,7 +12,7 @@ A live covid-19 tracker
 
 
 ##  Technology Stack
-![react](https://img.shields.io/badge/framework-React-red)
+![react](https://img.shields.io/badge/frontend-React-red)
 ![Html](https://img.shields.io/badge/language-Html-yellow)
 ![CSS](https://img.shields.io/badge/language-css-green)
 
